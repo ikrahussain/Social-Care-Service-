@@ -82,8 +82,8 @@ Validated the joined dataset to ensure records were matched correctly before car
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Python, Pandas, NumPy, SQL, Matplotlib, Seaborn</li>
-  <li><strong>Tools:</strong> Jupyter Notebook, VS Code, Git, GitHub</li>
+  <li><strong>Languages & Libraries:</strong> Excel, Pivottables, Dynamicarrayformatting, SQL, Matplotlib, Seaborn</li>
+  <li><strong>Tools:</strong> Conditionalformatting, VS Code, Git, GitHub</li>
   <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
 </ul>
 

@@ -1,0 +1,47 @@
+Social Care Service Data
+
+Key Insights
+Overview
+This analysis examined new Long Term Support service users during the 2023–24 financial year. The aim was to understand demand patterns, user characteristics, and service waiting times to support operational and strategic decision-making.
+Key Findings
+1. New Service User Demand
+A total of 3937 individuals were identified as new Long Term Support service users during 2023–24.
+Insight:This provides an indication of the level of new demand entering social care services and helps the council understand future resource requirements.
+Business Impact:Monitoring new service user volumes supports workforce planning, budgeting, and capacity management.
+
+2. Monthly Trends in New Service Starts
+The highest number of new service starts occurred in August, while the lowest occurred in January..
+Insight:This suggests seasonal variation in demand for Long Term Support services.
+Business Impact:Understanding peak demand periods enables managers to allocate staff and resources more effectively throughout the year.
+
+3. Service Type Distribution
+The most common service type among new users was Long term.
+Insight:Demand is concentrated within specific service categories.
+Business Impact:This information can support commissioning decisions and ensure sufficient provision is available where demand is greatest.
+
+4. Autism Prevalence
+3 new service users had a recorded autism diagnosis.
+Insight:A significant proportion of new users may require specialist or tailored support.
+Business Impact:This information helps inform service design, workforce training requirements, and future commissioning of specialist provision.
+
+5. Waiting Time Performance
+The median waiting time between assessment completion and Long Term Support commencement was 28 days.
+Insight:The median provides a realistic measure of the typical user experience by reducing the impact of extreme values.
+Business Impact:Monitoring waiting times helps identify delays in service delivery and supports performance improvement initiatives.
+
+Recommendations
+Continue monitoring monthly demand trends to identify emerging changes in service needs.
+Investigate any months with unusually high or low service starts.
+Review waiting time performance regularly to identify opportunities for process improvement.
+Use autism prevalence data to support planning for specialist services and staff training.
+Extend the analysis across multiple years to identify longer-term trends.
+
+Limitations
+Data is fictional and may not reflect real-world social care activity.
+Analysis covers only one financial year.
+Missing or incomplete records may affect results.
+Autism is recorded as a simple Yes/No field and does not reflect varying levels of need.
+Some individuals may receive multiple services, which can affect categorisation.
+
+Conclusion
+The analysis demonstrates how data can be used to understand demand, monitor service performance, and support evidence-based decision-making. In a Business Intelligence Analyst role at Nottinghamshire County Council, these insights would help inform service planning, resource allocation, and continuous improvement initiatives.

@@ -88,11 +88,11 @@ Validated the joined dataset to ensure records were matched correctly before car
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Pivottable-150458?style=for-the-badge&logo=pivottable&logoColor=white" alt="Pivot Table">
+  <img src="https://img.shields.io/badge/Powerquery-013243?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/Dynamicarrayformatting-11557C?style=for-the-badge&logo=dynamicarrayformatting&logoColor=white" alt="Dynamic Array Formatting">
+  <img src="https://img.shields.io/badge/Conditionalformatting-4C72B0?style=for-the-badge&logo=conditionalformatting&logoColor=white" alt="Conditional Formatting">
 </p>
 
 ---

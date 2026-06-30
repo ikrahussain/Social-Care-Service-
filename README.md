@@ -205,7 +205,6 @@ Overall, this analysis demonstrates how social care data can be used to generate
 
 - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
 - **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
 
 ---
 

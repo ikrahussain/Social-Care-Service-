@@ -89,10 +89,10 @@ Validated the joined dataset to ensure records were matched correctly before car
 
 <p>
   <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Pivottable-150458?style=for-the-badge&logo=pivottable&logoColor=white" alt="Pivot Table">
-  <img src="https://img.shields.io/badge/Powerquery-013243?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/Dynamicarrayformatting-11557C?style=for-the-badge&logo=dynamicarrayformatting&logoColor=white" alt="Dynamic Array Formatting">
-  <img src="https://img.shields.io/badge/Conditionalformatting-4C72B0?style=for-the-badge&logo=conditionalformatting&logoColor=white" alt="Conditional Formatting">
+  <img src="https://img.shields.io/badge/Pivot_Table-150458?style=for-the-badge&logo=pivot_table&logoColor=white" alt="Pivot Table">
+  <img src="https://img.shields.io/badge/Power_Query-013243?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/Dynamic_Array_Formatting-11557C?style=for-the-badge&logo=dynamicarrayformatting&logoColor=white" alt="Dynamic Array Formatting">
+  <img src="https://img.shields.io/badge/Conditional_Formatting-4C72B0?style=for-the-badge&logo=conditionalformatting&logoColor=white" alt="Conditional Formatting">
 </p>
 
 ---

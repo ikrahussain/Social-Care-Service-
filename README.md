@@ -92,7 +92,6 @@ Validated the joined dataset to ensure records were matched correctly before car
   <img src="https://img.shields.io/badge/Dynamic_Array_Formatting-11557C?style=for-the-badge&logo=dynamicarrayformatting&logoColor=white" alt="Dynamic Array Formatting">
   <img src="https://img.shields.io/badge/Conditional_Formatting-4C72B0?style=for-the-badge&logo=conditionalformatting&logoColor=white" alt="Conditional Formatting">
 </p>
-
 ---
 
 ## Usage
@@ -112,7 +111,8 @@ Visualizations:
 ## Analysis & Visualizations 
 
 Findings, Insights, and Visualisations
-Overview
+
+Overview:
 
 This analysis examined new Long Term Support service users during the 2023–24 financial year. The aim was to understand demand patterns, user characteristics and service waiting times to support operational and strategic decision-making within social care services.
 

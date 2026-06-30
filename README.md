@@ -82,9 +82,7 @@ Validated the joined dataset to ensure records were matched correctly before car
 <h2>Technologies Used</h2>
 
 <ul>
-  <li><strong>Languages & Libraries:</strong> Excel, Pivot Tables, Dynamic Array Formatting, Power Query</li>
-  <li><strong>Tools:</strong> Conditional Formatting, VS Code, Git, GitHub</li>
-  <li><strong>Data Visualization:</strong> Power BI / Tableau (if applicable)</li>
+  <li><strong>Tools:</strong> Excel, Pivot Tables, Dynamic Array Formatting, Power Query, Conditional Formatting, VS Code, Git, GitHub</li>
 </ul>
 
 <p>
